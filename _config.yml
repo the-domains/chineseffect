@@ -6,9 +6,9 @@ color:
   saturation: 0.4599076663143933
   rhythmicContrast: 0.10020031873136759
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
+    - '#FFF8E3'
+    - '#CCCC9F'
+    - '#33332D'
+    - '#9FB4CC'
+    - '#DB4105'
 name: chineseffect
